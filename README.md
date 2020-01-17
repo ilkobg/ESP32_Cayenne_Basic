@@ -10,5 +10,5 @@ ESP32 is put in deep sleep mode when not used, which disables all commucation of
 * Cayenne myDevices account
 
 ## Libraries used
-* [Cayenne MQTT ESP32 library] (https://github.com/myDevicesIoT/Cayenne-MQTT-ESP)
-* [DHT sensor library] (https://github.com/adafruit/DHT-sensor-library)
+* [Cayenne MQTT ESP32 library](https://github.com/myDevicesIoT/Cayenne-MQTT-ESP)
+* [DHT sensor library](https://github.com/adafruit/DHT-sensor-library)
