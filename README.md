@@ -9,6 +9,11 @@ ESP32 is put in deep sleep mode when not used, which disables all commucation of
 * DHT11 sensor
 * Cayenne myDevices account
 
+### Setup
+We need a credetentials.h file, which include:
+* SSID and password for our WiFi network;
+* Cayenne username, password and cliendID.
+
 ## Libraries used
 * [Cayenne MQTT ESP32 library](https://github.com/myDevicesIoT/Cayenne-MQTT-ESP)
 * [DHT sensor library](https://github.com/adafruit/DHT-sensor-library)

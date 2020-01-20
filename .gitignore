@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+ESP32_Cayenne_Basic\credetentials.h
+
 # User-specific files
 *.rsuser
 *.suo
